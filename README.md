@@ -1,6 +1,6 @@
 # DA-Assignments
 
-## Team
+## Team Kids Of Poseidon
 
 Daksha Singhal  PES1201700847
 
